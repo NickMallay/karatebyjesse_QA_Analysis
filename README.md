@@ -10,12 +10,18 @@ This project was approached as though I had been hired to perform a full QA audi
 
 Rather than focusing exclusively on whether features worked as expected, this audit prioritized:
 
+
+
+
 * User experience
 * User flow
 * Trust signals
 * Accessibility
 * Friction points that could impact engagement or purchasing decisions
 
+![Example Homepage Tests](QA_screenshot_2.jpg)
+![Example Bug Report](QA_screenshot_1.jpg)
+![Example Observations](QA_screenshot_3.jpg)
 ---
 
 ## At a Glance
